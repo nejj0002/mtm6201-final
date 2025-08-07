@@ -13,7 +13,11 @@ The project is deployed using GitHub Pages and can be viewed here:
 
 The website was developed based on high-fidelity mockups created in Figma.
 
-* **Figma Read-Only Link:** [Insert your read-only Figma link here]
+## Figma Design Link
+
+[Click here to view my high-fidelity Figma design (mobile, tablet, desktop)](https://www.figma.com/design/xp2MdodzC6KKFcqEeGMPav/Untitled--Copy-?t=6YepUa73ASggOPiJ-1)
+
+
 
 ---
 
